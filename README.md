@@ -54,6 +54,7 @@ I also improved my understanding of:
 - Mobile responsive design improvements
 - Deploy as a live web app
 
-<img width="1352" height="878" alt="Screenshot 2026-05-10 at 22 52 20" src="https://github.com/user-attachments/assets/07db0e71-1906-4d18-82f3-47934a8ccb1d" />
 
-<img width="1352" height="878" alt="Screenshot 2026-05-10 at 22 52 32" src="https://github.com/user-attachments/assets/a591b046-2fde-4c49-bdb0-f2dee232a5ac" />
+<img width="1352" height="878" alt="Screenshot 2026-05-10 at 22 52 20" src="https://github.com/user-attachments/assets/f68012d7-da6d-4018-a0c5-1e844e034ae4" />
+
+<img width="1352" height="878" alt="Screenshot 2026-05-10 at 22 52 32" src="https://github.com/user-attachments/assets/89302d0b-e205-4381-ba81-43957e6ae937" />
